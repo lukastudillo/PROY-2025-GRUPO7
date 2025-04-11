@@ -1,4 +1,4 @@
-# PROY-2025-GRUPO7
+# GASPIH2O-2025-GRUPO7
 
 Repositorio del grupo X para el proyecto del ramo *Proyecto Inicial* – 2025.
 

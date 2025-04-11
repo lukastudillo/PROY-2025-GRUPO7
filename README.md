@@ -6,10 +6,10 @@ Repositorio del grupo X para el proyecto del ramo *Proyecto Inicial* – 2025.
 
 | Nombre y Apellido | Usuario GitHub | Correo USM               | Rol          |
 | ----------------- | -------------- | ------------------------ | ------------ |
-| Benjamin Perez      | @benja3012        | bperezpe@usm.cl     | 2025300133 |
-| Manuel Rojas        | @dayhachO         | mrojassa@usm.cl     | 2025300311 |
-| Lucas Reveco        | @rlucas105        | lreveco@usm.cl      | 2025300230 |
-| Lukas Astudillo     | @lukastudillo     | lastudilloc@usm.cl  | 2025300060 |
+| Benjamin Perez      | @benja3012        | bperezpe@usm.cl     | 202530013-3 |
+| Manuel Rojas        | @dayhachOP         | mrojassa@usm.cl     | 202530031-1 |
+| Lucas Reveco        | @rlucas105        | lreveco@usm.cl      | 202530023-0 |
+| Lukas Astudillo     | @lukastudillo     | lastudilloc@usm.cl  | 202530006-0 |
 
 ---
 

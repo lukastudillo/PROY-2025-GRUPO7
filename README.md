@@ -47,7 +47,7 @@ Repositorio del grupo 7 para el proyecto del ramo *Proyecto Inicial* – 2025.
 ## 🗂️ Estructura del repositorio
 
 ```
-/PROY-2025-GRUPOX
+/GASPIH20-2025-GRUPO7
 │
 ├── docs/               # Documentación general y reportes
 ├── src/                # Código fuente del proyecto

@@ -15,7 +15,7 @@ Repositorio del grupo X para el proyecto del ramo *Proyecto Inicial* – 2025.
 
 ## 📝 Descripción breve del proyecto
 
-> *Aquí va una descripción general del proyecto, incluyendo su propósito, contexto dentro del curso y motivación.*
+> GASPIH2O Consiste en detectar fugas de gases y agua para poder prevenir accidentes y evitar un gasto excesivo de agua.
 
 ---
 

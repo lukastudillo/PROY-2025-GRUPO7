@@ -66,8 +66,8 @@ Repositorio del grupo 7 para el proyecto del ramo *Proyecto Inicial* – 2025.
 
 ## 📅 Cronograma de trabajo
 
+https://usmcl-my.sharepoint.com/:x:/r/personal/mrojassa_usm_cl/_layouts/15/doc2.aspx?sourcedoc=%7B55509E8D-5804-4B8C-A0ED-C13271AAD546%7D&file=Carta%20Gantt%20(Proyecto%20Inicial%20GASPIH20).xlsx&action=default&mobileredirect=true&DefaultItemOpen=1&ct=1744656133277&wdOrigin=OFFICECOM-WEB.MAIN.REC&cid=e7b896ac-ff8c-45c8-bc9e-5def1687a123&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=86382a27-c4db-4afa-9261-a3d2de573acb
 
-[Carta Gantt](https://google.com)
 
 ---
 

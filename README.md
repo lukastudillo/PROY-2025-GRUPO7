@@ -22,7 +22,7 @@ Repositorio del grupo 7 para el proyecto del ramo *Proyecto Inicial* – 2025.
 ## 🎯 Objetivos
 
 - Objetivo general:
-  - *Describir el objetivo principal del proyecto.*
+  - Desarrollar un sistema de detección de gas 
 - Objetivos específicos:
   - *Listar objetivos concretos que permitirán alcanzar el objetivo general.*
 

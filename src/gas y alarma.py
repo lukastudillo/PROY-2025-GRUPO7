@@ -8,8 +8,8 @@ WIFI_SSID = "Benja" # Reemplaza con el SSID de tu red Wi-Fi
 WIFI_PASSWORD = "123456789"  # Reemplaza con la contraseña de tu red Wi-Fi
 
 # --- CONFIGURACIÓN DEL BOT DE TELEGRAM ---
-TELEGRAM_BOT_TOKEN = "8014108130:AAHoEZK3V5TKrY158m-gmiiAgvej6XPuxzs" # Reemplaza con el token de tu bot
-TELEGRAM_CHAT_ID = "-4707900397" # Reemplaza con la ID de tu grupo (con el '-')
+TELEGRAM_BOT_TOKEN = "Token_bot" # Reemplaza con el token de tu bot
+TELEGRAM_CHAT_ID = "ID_grupo" # Reemplaza con la ID de tu grupo (con el '-')
 
 # --- CONFIGURACIÓN DEL SENSOR MQ-2 Y LED ---
 mq2_pin = ADC(26)

@@ -62,7 +62,7 @@ Repositorio del grupo 7 para el proyecto del ramo *Proyecto Inicial* – 2025.
 
 ## 🧪 Metodología
 
-> *Describir la metodología de desarrollo del proyecto (ágil, en cascada, prototipado, etc.). También puedes incluir el flujo de trabajo con Git (feature branches, pull requests, etc.).*
+> *Prueba ya error*
 
 ---
 

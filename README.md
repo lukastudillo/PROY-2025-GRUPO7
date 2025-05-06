@@ -34,9 +34,10 @@ Repositorio del grupo 7 para el proyecto del ramo *Proyecto Inicial* – 2025.
 
 ## 🧩 Alcance del proyecto
 -El alcance del proyecto es detectar 
-el gas licuado, humo.
-Limitaciones:
-- 
+el gas licuado.
+ limitaciones:
+ No detecta todos los gases que existen.
+ 
 
 ---
 

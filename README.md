@@ -62,7 +62,7 @@ Repositorio del grupo 7 para el proyecto del ramo *Proyecto Inicial* – 2025.
 
 ## 🧪 Metodología
 
-> *Prueba ya error*
+> *Prueba y error*
 
 ---
 

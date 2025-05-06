@@ -24,14 +24,19 @@ Repositorio del grupo 7 para el proyecto del ramo *Proyecto Inicial* – 2025.
 - Objetivo general:
   - Prevenir y evitar accidentes y gastos innecesarios.
 - Objetivos específicos:
-  - Evitar accidentes por fugas de gas.
-  - Detectar fugas de agua.
+  - Conectar el sensor de gas a la raspberry.
+  - Detectar fuga de gas.
+  - Cuando el sensor detecte el gas, que se mande una notificación a telegram.
+  -
+  - 
 
 ---
 
 ## 🧩 Alcance del proyecto
-
-> *Definir qué aspectos cubre el proyecto y qué queda fuera del alcance (limitaciones).*
+-El alcance del proyecto es detectar 
+el gas licuado, humo.
+Limitaciones:
+- 
 
 ---
 
@@ -44,7 +49,7 @@ Repositorio del grupo 7 para el proyecto del ramo *Proyecto Inicial* – 2025.
 - Sensores
   - MQ2
   - YF-201
----
+--
 
 ## 🗂️ Estructura del repositorio
 
@@ -55,6 +60,7 @@ Repositorio del grupo 7 para el proyecto del ramo *Proyecto Inicial* – 2025.
 ├── src/                # Código fuente del proyecto
 ├── tests/              # Casos de prueba
 ├── assets/             # Imágenes, diagramas, etc.
+
 └── README.md           # Este archivo
 ```
 

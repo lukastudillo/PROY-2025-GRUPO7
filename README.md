@@ -22,9 +22,10 @@ Repositorio del grupo 7 para el proyecto del ramo *Proyecto Inicial* – 2025.
 ## 🎯 Objetivos
 
 - Objetivo general:
-  - Desarrollar un sistema de detección de gas 
+  - Prevenir y evitar accidentes y gastos innecesarios.
 - Objetivos específicos:
-  - *Listar objetivos concretos que permitirán alcanzar el objetivo general.*
+  - Evitar accidentes por fugas de gas.
+  - Detectar fugas de agua.
 
 ---
 
@@ -37,11 +38,12 @@ Repositorio del grupo 7 para el proyecto del ramo *Proyecto Inicial* – 2025.
 ## 🛠️ Tecnologías y herramientas utilizadas
 
 - Lenguaje(s) de programación:
-  - Ej: Python, JavaScript, C++
+  - Ej: MicroPython.
 - Microcontroladores
   - Raspberry Pi Pico W 2
 - Sensores
-
+  - MQ2
+  - YF-201
 ---
 
 ## 🗂️ Estructura del repositorio

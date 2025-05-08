@@ -4,8 +4,8 @@ import time
 from machine import ADC, Pin
 
 # --- CONFIGURACIÓN DE WI-FI ---
-WIFI_SSID = "Benja" # Reemplaza con el SSID de tu red Wi-Fi
-WIFI_PASSWORD = "123456789"  # Reemplaza con la contraseña de tu red Wi-Fi
+WIFI_SSID = "SSID" # Reemplaza con el SSID de tu red Wi-Fi
+WIFI_PASSWORD = "PASSWORD"  # Reemplaza con la contraseña de tu red Wi-Fi
 
 # --- CONFIGURACIÓN DEL BOT DE TELEGRAM ---
 TELEGRAM_BOT_TOKEN = "Token_bot" # Reemplaza con el token de tu bot
@@ -41,7 +41,7 @@ def enviar_mensaje_telegram(mensaje):
     api_url = f"https://api.telegram.org/bot8014108130:AAHoEZK3V5TKrY158m-gmiiAgvej6XPuxzs}/sendMessage"
     params = {
         "chat_id": "TELEGRAM_CHAT_ID",
-        "text": mensaje
+        "text": 'mensaje' #Reemplaza con el mensaje que quieras dar.
     }
     try:
         response = requests.post(api_url, json=params)

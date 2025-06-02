@@ -49,7 +49,7 @@ el gas licuado.
   - Raspberry Pi Pico W 2
 - Sensores
   - MQ2
-  - YF-201
+    
 --
 
 ## 🗂️ Estructura del repositorio

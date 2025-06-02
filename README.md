@@ -36,7 +36,7 @@ Repositorio del grupo 7 para el proyecto del ramo *Proyecto Inicial* – 2025.
 -El alcance del proyecto: Detectar 
 el gas licuado.
  Limitaciones:
- No detecta todos los otros gases existentes.
+ No detecta los otros gases existentes.
  
 
 ---

@@ -27,16 +27,16 @@ Repositorio del grupo 7 para el proyecto del ramo *Proyecto Inicial* – 2025.
   - Conectar el sensor de gas a la raspberry.
   - Detectar fuga de gas.
   - Cuando el sensor detecte el gas, que se mande una notificación a telegram.
-  -
-  - 
+  
+    
 
 ---
 
 ## 🧩 Alcance del proyecto
--El alcance del proyecto es detectar 
+-El alcance del proyecto: Detectar 
 el gas licuado.
- limitaciones:
- No detecta todos los gases que existen.
+ -limitaciones:
+ No detecta todos los otros gases existentes.
  
 
 ---
@@ -69,8 +69,8 @@ el gas licuado.
 
 ## 🧪 Metodología
 
-> *Prueba y error*
-
+> Nuestrs metodologia fue:
+*Prueba y error*
 ---
 
 ## 📅 Cronograma de trabajo

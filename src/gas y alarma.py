@@ -12,8 +12,8 @@ TELEGRAM_BOT_TOKEN = "Token_bot" # Reemplaza con el token de tu bot
 TELEGRAM_CHAT_ID = "ID_grupo" # Reemplaza con la ID de tu grupo (con el '-')
 
 # --- CONFIGURACIÓN DEL SENSOR MQ-2 Y LED ---
-mq2_pin = ADC(26)  # -- pin 31 --
-led_pin = Pin(15, Pin.OUT)  # -- pin 15 --
+mq2_pin = ADC(26)  # -- pin 31 (AO) --
+led_pin = Pin(15, Pin.OUT)  # -- pin 15 (DO) --
 
 # --- UMBRAL DE ALERTA ---
 UMBRAL_GAS = 100  # Ajusta este valor según la sensibilidad de tu sensor

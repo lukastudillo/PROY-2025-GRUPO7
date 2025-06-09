@@ -15,7 +15,7 @@ Repositorio del grupo 7 para el proyecto del ramo *Proyecto Inicial* – 2025.
 
 ## 📝 Descripción breve del proyecto
 
-> GASPIH2O Consiste en detectar fugas de gases para prevenir accidentes y detectar fugas de agua para evitar un gasto excesivo.
+> GASPIH2O Consiste en detectar fugas de gases para prevenir accidentes y detectar fllujo de agua para evitar un gasto excesivo en litros.
 
 ---
 
@@ -27,6 +27,7 @@ Repositorio del grupo 7 para el proyecto del ramo *Proyecto Inicial* – 2025.
   - Conectar el sensor de gas a la raspberry.
   - Detectar fuga de gas.
   - Cuando el sensor detecte el gas, que se mande una notificación a telegram.
+  - Detectar flujo de agua por los caudales.
   
     
 
@@ -34,9 +35,10 @@ Repositorio del grupo 7 para el proyecto del ramo *Proyecto Inicial* – 2025.
 
 ## 🧩 Alcance del proyecto
 -El alcance del proyecto: Detectar 
-el gas licuado.
+el gas licuado y litros de agua.
  Limitaciones:
  No detecta los otros gases existentes.
+ 
  
 
 ---

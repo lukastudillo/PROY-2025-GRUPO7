@@ -117,12 +117,19 @@ REEMPLAZAR DATOS EN EL CODIGO.
 
 - Conexiones:
 Sensor Gas:
+
 AO --> pin 31
+
 DO --> pin 20
+
 Sensor Agua:
+
 Digital --> pin 19
+
 Buzzer
+
 S --> pin 0
+
 Gnd conectar todos al mismo
 
 ---

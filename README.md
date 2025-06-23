@@ -82,6 +82,51 @@ el gas licuado y litros de agua.
 
 ---
 
+## 🚀 Instrucciones de Uso
+Para replicar y poner en marcha este proyecto, sigue los siguientes pasos detallados:
+
+- Requisitos de Hardware
+Asegúrate de tener los siguientes componentes:
+
+Raspberry Pi Pico2 W: La placa principal con conectividad Wi-Fi.
+Sensor de Gas MQ-2: Para detectar gases combustibles.
+Sensor de Flujo de Agua (tipo YF-S201C): Para medir el caudal de agua.
+Zumbador (Buzzer): Para una alarma sonora.
+Protoboard y Cables Jumper: Para las conexiones.
+Fuente de Alimentación: Cable USB para la Pico W.
+Pilas AA.
+
+- Configuración de Telegram Bot
+Necesitarás un bot de Telegram y la ID de un chat/grupo para recibir las alertas.
+
+  Crear un Bot de Telegram:
+
+Abre tu aplicación de Telegram y busca a @BotFather.
+Inicia una conversación y envía el comando /newbot.
+Sigue las instrucciones para elegir un nombre y un nombre de usuario para tu bot.
+BotFather te proporcionará un HTTP API Token. Este es tu TELEGRAM_BOT_TOKEN.
+¡ADVERTENCIA DE SEGURIDAD! Este token no debe ser compartido públicamente ni subido directamente al repositorio de código.
+
+  Obtener la ID de tu Chat/Grupo:
+
+Para un chat privado contigo mismo: Inicia una conversación con tu bot y envía /start. Luego, busca a @userinfobot y envía un mensaje. Te devolverá tu Chat ID (un número positivo).
+Para un grupo: Crea un grupo en Telegram y añade a tu bot a ese grupo. Envía un mensaje cualquiera en el grupo. Luego, añade temporalmente el bot @RawDataBot o @JsonDumpBot al mismo grupo, y te mostrará la chat_id del grupo (será un número negativo, como -123456789). Una vez obtenida, puedes eliminar @RawDataBot del grupo.
+Este será tu TELEGRAM_CHAT_ID.
+
+REEMPLAZAR DATOS EN EL CODIGO.
+
+- Conexiones:
+Sensor Gas:
+AO --> pin 31
+DO --> pin 20
+Sensor Agua:
+Digital --> pin 19
+Buzzer
+S --> pin 0
+Gnd conectar todos al mismo
+
+---
+
 ## 📚 Bibliografía
 
 [Enlace](https://google.com)

@@ -15,7 +15,7 @@ Repositorio del grupo 7 para el proyecto del ramo *Proyecto Inicial* – 2025.
 
 ## 📝 Descripción breve del proyecto
 
-> GASPIH2O Consiste en detectar fugas de gases para prevenir accidentes y detectar fllujo de agua para evitar un gasto excesivo en litros.
+> GASPIH2O Consiste en detectar fugas de gases para prevenir accidentes y detectar flujo de agua para evitar un gasto excesivo en litros.
 
 ---
 

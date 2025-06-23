@@ -90,7 +90,7 @@ Asegúrate de tener los siguientes componentes:
 
 Raspberry Pi Pico2 W: La placa principal con conectividad Wi-Fi.
 Sensor de Gas MQ-2: Para detectar gases combustibles.
-Sensor de Flujo de Agua (tipo YF-S201C): Para medir el caudal de agua.
+Sensor de Flujo de Agua (tipo YF-S201): Para medir el caudal de agua.
 Zumbador (Buzzer): Para una alarma sonora.
 Protoboard y Cables Jumper: Para las conexiones.
 Fuente de Alimentación: Cable USB para la Pico W.
